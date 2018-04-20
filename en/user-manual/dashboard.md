@@ -18,3 +18,8 @@ Totals and charts are displayed under the default currency. Invoices, revenues, 
 ### Menu
 
 In the left side of there is a navigation menu. You can navigate between the **Items**, **Incomes**, **Expenses**, **Banking**, **Reports**, **Settings** and **Apps**. These sections will be explained in further detail in the following sections of the User Manual.
+
+### Banner Bar
+
+The banner bar also contain an easy way to quickly access the menu strucure. Click on the "+" to drop down a set of menus to select from.
+
